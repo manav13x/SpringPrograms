@@ -1,0 +1,10 @@
+1539576268757	Rename package 'com.verizon.TISP'
+1539576291042	Rename package 'com.verizon.emp.service'
+1539576303203	Rename package 'com.verizon.emp.restapi'
+1539576313618	Rename package 'com.verizon.emp.model'
+1539576325397	Rename package 'com.verizon.emp.dao'
+1539577390949	Rename type 'EmplyoeeRepository'
+1539577417316	Delete element
+1539578140883	Copy compilation unit
+1539578143758	Delete element
+1539578861162	Rename type 'Service'

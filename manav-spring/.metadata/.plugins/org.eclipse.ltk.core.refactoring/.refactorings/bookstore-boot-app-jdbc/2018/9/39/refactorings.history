@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IQueryMapper.java&apos; to &apos;spring-jdbc-demo-28/src/main/java/com.verizon.sjdbc.dao&apos;&#x0D;&#x0A;- Original project: &apos;bookstore-boot-app-jdbc&apos;&#x0D;&#x0A;- Destination element: &apos;spring-jdbc-demo-28/src/main/java/com.verizon.sjdbc.dao&apos;&#x0D;&#x0A;- Original element: &apos;com.verizon.bsa.dao.IQueryMapper.java&apos;" description="Copy compilation unit" destination="=spring-jdbc-demo-28/src\/main\/java&lt;com.verizon.sjdbc.dao" element1="/src\/main\/java&lt;com.verizon.bsa.dao{IQueryMapper.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1538114032176" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=bookstore-boot-app-jdbc/C:\/Users\/verizon\/.m2\/repository\/org\/springframework\/spring-jdbc\/5.0.9.RELEASE\/spring-jdbc-5.0.9.RELEASE.jar&lt;org.springframework.jdbc.core(RowMapper.class[RowMapper" modifiers="1537" timestamp="1536902371939"/>
+<typeInfo handle="=bookstore-boot-app-jdbc/C:\/Users\/verizon\/.m2\/repository\/org\/springframework\/spring-jdbc\/5.0.9.RELEASE\/spring-jdbc-5.0.9.RELEASE.jar&lt;org.springframework.jdbc.core(RowCallbackHandler.class[RowCallbackHandler" modifiers="1537" timestamp="1536902371939"/>
+<typeInfo handle="=bookstore-boot-app-jdbc/src\/main\/java&lt;com.verizon.bsa.dao{BookDao.java[BookDao" modifiers="513" timestamp="1536650603977"/>
+<typeInfo handle="=addressBook-spring-data-app/src\/main\/java&lt;com.verizon.adb.service{ContactService.java[ContactService" modifiers="513" timestamp="1537436648165"/>
+<typeInfo handle="=junit-demo/src\/main\/java&lt;com.verizon.service{GreetingService.java[GreetingService" modifiers="1" timestamp="1539323978238"/>
+<typeInfo handle="=junit-demo/src\/main\/java&lt;com.verizon.service{ScoringService.java[ScoringService" modifiers="1" timestamp="1539337076833"/>
+</typeInfoHistroy>

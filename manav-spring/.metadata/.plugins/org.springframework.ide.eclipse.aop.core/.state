@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-data-mongo-demo2"/>
+<aop-project name="vehicle-spring-jdbc"/>
+<aop-project name="emplyoee-app-springdata-restfulapi-test"/>
+<aop-project name="spring-jdbc-demo3-30"/>
+<aop-project name="spring-amqp-demo"/>
+<aop-project name="Spring-Security-Demo-1"/>
+<aop-project name="spring-jdbc-demo2-29"/>
+<aop-project name="emplyoee-app-sqlOperator"/>
+<aop-project name="bookstore-boot-app-jdbc"/>
+<aop-project name="emplyoee-app-springdata-restfulapi"/>
+<aop-project name="emplyoee-app-jdbc"/>
+<aop-project name="Tarangini-ISP-Project"/>
+<aop-project name="spring-data-mongo-demo"/>
+<aop-project name="bookstore-boot-app"/>
+<aop-project name="spring-jdbc-demo-28"/>
+<aop-project name="emplyoee-spring-data-rest-demo"/>
+<aop-project name="addressBook-spring-data-app"/>
+<aop-project name="address-book-springdata-restfulapi"/>
+<aop-project name="emplyoee-spring-data-app-testing"/>
+<aop-project name="spring-data-emp-practice"/>
+<aop-project name="spring-data-rest-demo"/>
+<aop-project name="emplyoee-spring-data-app"/>
+<aop-project name="emplyoee-app-jdbcNamed"/>
+<aop-project name="Spring-Web-Crud"/>
+<aop-project name="my-first-boot-web"/>
+<aop-project name="emplyoee-app-springdata-restfulapi-mongo"/>
+<aop-project name="spring-data-mongoTemplate-demo"/>
+<aop-project name="spring-data-cassendra-demo"/>
+<aop-project name="spring-jdbc-demo4-29"/>
+</aop-reference-model>

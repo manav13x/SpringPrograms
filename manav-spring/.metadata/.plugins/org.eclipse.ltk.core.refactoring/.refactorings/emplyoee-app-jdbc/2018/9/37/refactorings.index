@@ -1,0 +1,5 @@
+1536922526513	Rename type 'BookRowMapper'
+1536922751785	Rename type 'BookService'
+1536922762334	Rename type 'BookServiceImpl'
+1536923026296	Rename compilation unit 'BookDao.java'
+1536923045563	Rename type 'BookDAOJdbcTemplateImpl'

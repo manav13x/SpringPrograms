@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestUtil.java&apos; to &apos;Tarangini-ISP-Project/src/main/java/com.verizon.tisp.restapi&apos;&#x0D;&#x0A;- Original project: &apos;emplyoee-app-springdata-restfulapi-test&apos;&#x0D;&#x0A;- Destination element: &apos;Tarangini-ISP-Project/src/main/java/com.verizon.tisp.restapi&apos;&#x0D;&#x0A;- Original element: &apos;com.verizon.emp.restapi.TestUtil.java&apos;" description="Copy compilation unit" destination="=Tarangini-ISP-Project/src\/main\/java&lt;com.verizon.tisp.restapi" element1="/src\/main\/java&lt;com.verizon.emp.restapi{TestUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1540459549369" units="1" version="1.0"/>
+</session>

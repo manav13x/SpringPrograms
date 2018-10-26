@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;EmployeeControllerTest.java&apos; to &apos;emplyoee-app-springdata-restfulapi/src/test/java/com.verizon.emp&apos;&#x0D;&#x0A;- Original project: &apos;emplyoee-spring-data-app-testing&apos;&#x0D;&#x0A;- Destination element: &apos;emplyoee-app-springdata-restfulapi/src/test/java/com.verizon.emp&apos;&#x0D;&#x0A;- Original element: &apos;com.verizon.emp.EmployeeControllerTest.java&apos;" description="Copy compilation unit" destination="=emplyoee-app-springdata-restfulapi/src\/test\/java&lt;com.verizon.emp" element1="/src\/test\/java&lt;com.verizon.emp{EmployeeControllerTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1540440777008" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+* {
+	margin: 10px;
+	padding: 10px;
+}
+
+h1, h2 {
+	border-bottom: 1.5px solid black;
+}
+
+table {
+	min-width: 500px;
+	margin: auto;
+	border: 1px solid black;
+	border-radius: 10px;
+}

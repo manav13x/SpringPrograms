@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SecurityConfiguration.java&apos; to &apos;NexusService/src/main/java/com.nexus.bnd&apos;&#x0D;&#x0A;- Original project: &apos;emplyoee-spring-data-app&apos;&#x0D;&#x0A;- Destination element: &apos;NexusService/src/main/java/com.nexus.bnd&apos;&#x0D;&#x0A;- Original element: &apos;com.verizon.emp.SecurityConfiguration.java&apos;" description="Copy compilation unit" destination="=NexusService/src\/main\/java&lt;com.nexus.bnd" element1="/src\/main\/java&lt;com.verizon.emp{SecurityConfiguration.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1539938827910" units="1" version="1.0"/>
+</session>

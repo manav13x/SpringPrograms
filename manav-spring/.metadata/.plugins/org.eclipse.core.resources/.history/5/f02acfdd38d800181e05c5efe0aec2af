@@ -1,0 +1,33 @@
+package com.verizon.TISP;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class TestServices {
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@After
+	public void tearDown() throws Exception {
+	}
+
+
+	@Test
+	public void testGreetForValidUserName() {
+		String input = "vamsy";
+		String expected = "Hello vamsy";
+		String actual = gs.greet(input);
+		assertEquals(expected, actual);
+	}
+	
+	@Test
+	public void testGreetForNull(){
+		String actual =  gs.greet(null);
+		assertNull(actual);
+	}
+}

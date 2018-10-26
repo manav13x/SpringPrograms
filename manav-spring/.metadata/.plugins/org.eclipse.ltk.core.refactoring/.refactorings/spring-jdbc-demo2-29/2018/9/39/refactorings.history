@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.verizon.sjdbc.exception&apos; to &apos;emplyoee-app-jdbc/src/main/java/com.verizon.emp&apos;&#x0D;&#x0A;- Original project: &apos;spring-jdbc-demo2-29&apos;&#x0D;&#x0A;- Destination element: &apos;emplyoee-app-jdbc/src/main/java/com.verizon.emp&apos;&#x0D;&#x0A;- Original element: &apos;spring-jdbc-demo2-29/src/main/java/com.verizon.sjdbc.exception&apos;" description="Copy package" destination="=emplyoee-app-jdbc/src\/main\/java&lt;com.verizon.emp" element1="/src\/main\/java&lt;com.verizon.sjdbc.exception" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1538134372579" version="1.0"/>
+</session>
